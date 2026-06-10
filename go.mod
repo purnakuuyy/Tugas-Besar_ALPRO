@@ -1,0 +1,3 @@
+module Aplikasi_Manajemen_Subskripsi_Digital_dan_Keuangan_Pribadi
+
+go 1.25.1
